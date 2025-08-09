@@ -1,0 +1,20 @@
+# Python
+*.pyc
+*~
+__pycache__/
+
+# Env
+.env
+venv/
+myvenv/
+
+# DB
+db.sqlite3
+
+# Static (collected)
+static/
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
